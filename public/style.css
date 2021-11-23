@@ -22,6 +22,13 @@ body {
   font-family: 'Permanent Marker', cursive;
   font-size: 8rem;
 }
+.splash-name{
+  position: absolute;
+  bottom: 1%;
+  right: 5%;
+  font-family: 'Permanent Marker', cursive; 
+  size:4rem;
+}
 
 .splash-battleship-image {
   position: absolute;
