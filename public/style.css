@@ -14,12 +14,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   height: 66vh;
 }
 
 .splash-title {
   font-family: 'Permanent Marker', cursive;
-  font-size: 10rem;
+  font-size: 8rem;
 }
 
 .splash-battleship-image {
